@@ -1,0 +1,17 @@
+{
+  "name": "bdd-playwright-javascript",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js "
+  },
+  "author": "alvitazwar",
+  "license": "GNU",
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@cucumber/cucumber": "^9.0.1",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@playwright/test": "^1.32.1",
+    "playwright": "^1.32.1",
+    "cucumber-html-reporter": "5.5.0"
+  }
+}
